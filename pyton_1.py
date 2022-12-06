@@ -6,5 +6,5 @@ on my self to data scientist or my aim is make good enviorment
 """
 def test(a,b):
   return a+b
-
-test(4,5)
+def trst1(c,d):
+  return c-d
